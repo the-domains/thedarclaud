@@ -1,7 +1,7 @@
 name: thedarclaud
 favicon: null
-layout_spectrum: 0.28134036902338266
-typography_spectrum: 0.7514435492921621
+layout_spectrum: 1
+typography_spectrum: 0.51015
 cta:
   domain: null
   bucket: null
