@@ -1,0 +1,28 @@
+name: thedarclaud
+favicon: null
+layout_spectrum: 0.28134036902338266
+typography_spectrum: 0.7514435492921621
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.03787688771262765
+  lightness: 0.25032708514481783
+  saturation: 0.11586278583854437
+  rhythmicContrast: 0.1793101013172418
+purpose: []
