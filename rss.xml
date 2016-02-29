@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[thedarclaud]]></title>
         <description><![CDATA[thedarclaud]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thedarclaud/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 09:44:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 09:55:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thedarclaud/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c016df5d-b720-4418-8d1e-48b73b953640.jpg">]]></description>
+            <link>https://thegrid.ai/thedarclaud/c8280f9a-b606-415a-b31d-a35ef2524d10/index.html</link>
+            <guid isPermaLink="false">c8280f9a-b606-415a-b31d-a35ef2524d10</guid>
+            <pubDate>Mon, 29 Feb 2016 09:55:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb2bd5dc-4419-4bbb-9064-b9fd2f22dda5.jpg">]]></description>
-            <link>undefined0679dfc7-ccc8-4b8b-8912-863b08933ca6/index.html</link>
+            <link>https://thegrid.ai/thedarclaud/0679dfc7-ccc8-4b8b-8912-863b08933ca6/index.html</link>
             <guid isPermaLink="false">0679dfc7-ccc8-4b8b-8912-863b08933ca6</guid>
             <pubDate>Mon, 29 Feb 2016 09:43:53 GMT</pubDate>
         </item>
